@@ -4598,11 +4598,13 @@ fieldset[disabled] .btn-pure.focus {
   line-height: 10px;
 }
 .progress-xs {
-  height: 4px;
+  height: 24px;
+  padding-left: 10px;
+  padding-right: 10px;
   border-radius: 1px;
 }
 .progress-xs.progress-vertical {
-  width: 4px;
+  width: 14px;
 }
 .progress-xs .progress-bar {
   line-height: 4px;
